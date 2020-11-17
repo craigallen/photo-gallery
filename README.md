@@ -1,2 +1,2 @@
-# photo-gallery
+# Photo Gallery
 Ionic React app
